@@ -1,0 +1,15 @@
+*.txt
+*.pyc
+*.csv
+*.pt
+*.log
+*.cpk
+*.DS_Store
+/dataset/*/*.pt
+/dataset/*/*.csv
+/log/*.log
+/model/*.cpk
+/*/*.csv
+/core_conditional_attn/__pycache__
+/dataset/*
+/__pycache__
